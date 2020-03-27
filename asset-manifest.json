@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money-in-pocket/static/css/main.0e5bb76b.chunk.css",
+    "main.js": "/money-in-pocket/static/js/main.ec5c1b4d.chunk.js",
+    "main.js.map": "/money-in-pocket/static/js/main.ec5c1b4d.chunk.js.map",
+    "runtime-main.js": "/money-in-pocket/static/js/runtime-main.1fa55366.js",
+    "runtime-main.js.map": "/money-in-pocket/static/js/runtime-main.1fa55366.js.map",
+    "static/js/2.02e37928.chunk.js": "/money-in-pocket/static/js/2.02e37928.chunk.js",
+    "static/js/2.02e37928.chunk.js.map": "/money-in-pocket/static/js/2.02e37928.chunk.js.map",
+    "index.html": "/money-in-pocket/index.html",
+    "precache-manifest.aab110677e04cb84bfe854d30fbb0380.js": "/money-in-pocket/precache-manifest.aab110677e04cb84bfe854d30fbb0380.js",
+    "service-worker.js": "/money-in-pocket/service-worker.js",
+    "static/css/main.0e5bb76b.chunk.css.map": "/money-in-pocket/static/css/main.0e5bb76b.chunk.css.map",
+    "static/js/2.02e37928.chunk.js.LICENSE.txt": "/money-in-pocket/static/js/2.02e37928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa55366.js",
+    "static/js/2.02e37928.chunk.js",
+    "static/css/main.0e5bb76b.chunk.css",
+    "static/js/main.ec5c1b4d.chunk.js"
+  ]
+}
